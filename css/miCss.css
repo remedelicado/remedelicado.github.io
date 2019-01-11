@@ -1,0 +1,25 @@
+nav a{
+  border:dotted yellow 1px;
+}
+nav a:hover{
+  border:dotted green 4px;
+}
+
+body>header{ margin-top:100px}
+
+section article p{
+  padding:2em 1em;
+    margin-bottom:2em;
+  background-color: #e9ecef;
+  border-radius: 1em;
+}
+
+body>header>h1{
+  font-family: 'Spicy Rice', cursive;
+  text-shadow:2px 2px green;
+  color: blue;
+ 
+ 
+  
+  
+}
